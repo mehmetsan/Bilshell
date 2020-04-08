@@ -18,8 +18,7 @@ size_t capline = 0; // Capacity
 
 
 
-
-
+printf("cenk");
 /* Declaration for strtok() */
 int i;
 char *token;

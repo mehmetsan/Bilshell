@@ -16,6 +16,10 @@
 char *input = NULL;
 size_t capline = 0; // Capacity
 
+
+
+
+
 /* Declaration for strtok() */
 int i;
 char *token;
